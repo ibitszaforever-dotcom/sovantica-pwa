@@ -1,8 +1,11 @@
 {
+  "id": "https://sovantica.ru/",
   "name": "SOVANTICA",
   "short_name": "SOVANTICA",
-  "start_url": "/",
-  "scope": "/",
+  "description": "SOVANTICA - ароматы, материалы и решения для дома, творчества и бизнеса.",
+  "lang": "ru-RU",
+  "start_url": "https://sovantica.ru/",
+  "scope": "https://sovantica.ru/",
   "display": "standalone",
   "background_color": "#050505",
   "theme_color": "#050505",
@@ -11,13 +14,13 @@
       "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
       "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
